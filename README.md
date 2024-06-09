@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey Techies! I'm Divya Sivakumar ❤️
+## Enthusiastic Engineering Student
 
-<!--
-**divyyeahhhhh/divyyeahhhhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👩🏻‍💻 ***Pursuing B.Tech in Artificial Intelligence and Data Science***
+- 🌱 ***I’m currently learning Python and Fundamentals of Data Analytics***
+- 👯 ***I’m looking to collaborate on complex data***
+- 📫 ***Mail me at: Divyashivakumar2003@gmail.com***
+- 🤖 ***[Join my Discord](https://discord.gg/VjExMpgvk5) to collabrate and share insights with fellow coders from my university***
+
+[![Divya's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyyeahhhhh&show_icons=true&theme=radical))](https://github.com/divyyeahhhhh/github-readme-stats)
+
