@@ -2,7 +2,7 @@
 ## Enthusiastic Engineering Student
 
 
-
+# 💫 About Me:
 - 👩🏻‍💻 ***Pursuing B.Tech in Artificial Intelligence and Data Science***
 - 🌱 ***I’m currently learning Python and Fundamentals of Data Analytics***
 - 👯 ***I’m looking to collaborate on complex data***
@@ -22,4 +22,3 @@
 [![](https://visitcount.itsvg.in/api?id=divyyeahhhhh&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
