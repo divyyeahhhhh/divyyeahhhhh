@@ -1,11 +1,11 @@
 # Hey Techies! I'm Divya Sivakumar ❤️
-## Enthusiastic Engineering Student
+## AI/ML Engineer
 
 
 # 💫 About Me:
-- 👩🏻‍💻 ***Pursuing B.Tech in Artificial Intelligence and Data Science***
-- 🌱 ***I’m currently learning Python and Fundamentals of Data Analytics***
-- 👯 ***I’m looking to collaborate on complex data***
+- 👩🏻‍💻 ***Graduated in B.Tech in Artificial Intelligence and Data Science***
+- 🌱 ***I’m currently working as a AI/ML Engineer Trainee at NewGen DigitalWorks***
+- 👯 ***I’m looking to collaborate and learn new technology***
 - 📫 ***Mail me at: Divyashivakumar2003@gmail.com***
 
 
